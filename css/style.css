@@ -11,10 +11,10 @@ body {
   line-height: 1.5;
 }
 header {
-  padding: 0px;
+  padding:0px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: #c28f17;
-  color: #101c05;
+  color: white;
 }
 .navbar {
   display: flex;
@@ -47,6 +47,24 @@ header {
 
 .navbar-links li:hover {
   background-color: grey;
+}
+
+.hero-banner {
+  height: 200px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url("../images/02-hero-bg.jpg");
+  /* positioning and centering to fit all screen size */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.hero-banner-text {
+  padding: 1.5rem;;
+  text-align:right;
+  color:rgb(180, 49, 13);
+  font-size:medium;
 }
 h1, 
 h2,
