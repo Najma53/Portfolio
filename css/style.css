@@ -53,7 +53,7 @@ header {
   height: 200px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../images/02-hero-bg.jpg");
+  background-image: url("../images/Autumn1.jpg");
   /* positioning and centering to fit all screen size */
   background-size: cover;
   background-position: center;
@@ -69,7 +69,7 @@ header {
 
 footer{
   padding:0px;
-  padding-bottom: 100px;
+  padding-bottom: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: #c28f17;
   color: white;
@@ -80,16 +80,16 @@ footer{
   justify-content:space-around;
   align-items: center;
   background-color: #c28f17;
-  color: #101c05;
+  color: white;
 }
 .contact-links ul {
   margin: 0;
-  padding: 0;
+  padding: 50px;
   display: flex;
   justify-content:space-around;
   align-items: center;
   background-color: #c28f17;
-  color: #101c05;
+  color:white;
   
 }
 
@@ -98,7 +98,7 @@ list-style-type: none;
 }
 
 .contact me a {
-  text-decoration: none;
+  text-decoration:none;
   color: white;
   padding: 1rem;
   display: block;
