@@ -34,7 +34,7 @@ Fist thing that was buid was navbar using https://www.youtube.com/watch?v=At4B7A
 Learned extra features like toggle hence added them. They are great features.
 Then used same technique to uild footer.
 Git add -A, Git commit -m" description of changes" and git push origin main command were used to link my changes from my laptop to my repository on github.
-Main Body is a huge challenge. Went back to wiring ...
+Main Body is a huge challenge. Went back to asic wire frames. Can see what needs to be done but anable to get the results.. CSS codes are all over the place...
 
 ## Conclusion
 A very challenging project which I thoroughly enjoyed and is still under construction.
